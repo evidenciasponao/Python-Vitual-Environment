@@ -12,11 +12,16 @@ This Manual was created to try explain how to create Virtual Environment in Pyth
 ![image](https://user-images.githubusercontent.com/98203936/180690426-76e6fa91-9300-42ab-92ed-0fd3fc0ac203.png)
 
 Puesta en marcha
+
 Abre una terminal de comandos
+
 Navega hasta la raíz del proyecto donde quieres listar las dependencias
-Ejecuta
+Ejecuta:
+
 pip freeze > requirements.txt
-Abre el archivo requirements.txt creado, este listará todas las dependecias de paquetes así como la versión del mismo que tu proyecto requiere para funcionar:
+
+Abre el archivo requirements.txt creado, este listará todas las dependecias de paquetes así como 
+la versión del mismo que tu proyecto requiere para funcionar:
 Para instalar esta lista de dependencias en cualquier otra instalación de Python puedes ejecutar
 
 pip install -r requirements.txt
