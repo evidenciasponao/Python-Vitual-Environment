@@ -11,6 +11,11 @@ This Manual was created to try explain how to create Virtual Environment in Pyth
 
 ![image](https://user-images.githubusercontent.com/98203936/180690426-76e6fa91-9300-42ab-92ed-0fd3fc0ac203.png)
 
+3.Open a cmd and type venv\Scripts\activate.bat
+
+![image](https://user-images.githubusercontent.com/98203936/187121988-a3709993-59f5-4d11-8951-12af2006c1e9.png)
+
+
 Puesta en marcha
 
 Abre una terminal de comandos
